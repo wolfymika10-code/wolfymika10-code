@@ -7,3 +7,5 @@
 - ⚡ Fun fact: i liek LuaU
 
 you can find my social links below my profile
+
+(wolfymika10 and wolfymika10-code are the same person, i dont know why github does that)
